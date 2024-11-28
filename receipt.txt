@@ -1,0 +1,5 @@
+Your Shopping Receipt
+====================
+Subtotal: $0.00
+Tax (16%): $0.00
+Grand Total: $0.00
